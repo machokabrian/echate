@@ -191,7 +191,8 @@ footer a{color:var(--g)}
 @media(min-width:600px){.nm2{font-size:12px}}
 
 /* Echate extras: hero background, featured appearance, no-bar state - recolored to PPK */
-body{background:var(--bg) url(band-bg.jpg) center top/cover fixed}
+body{background:var(--bg)}
+.herowrap{background:var(--bg);border-bottom:1px solid var(--line)}
 .herowrap{background:var(--bg) url(hero-bg.jpg) center/cover no-repeat;border-bottom:1px solid var(--line)}
 .hero{padding-bottom:48px}
 .photo{max-width:420px;justify-self:center;border-bottom-color:var(--g)}
