@@ -107,7 +107,7 @@ on('cp', function () {
           'preload="metadata" muted playsinline></video><span class="pl">▶</span>' + label + '</div>';
       } else {
         html += '<div class="gi" data-k="' + k + '"><img src="' + esc(it.src) + '" alt="' + esc(it.name || it.alt || '') +
-          '" loading="lazy">' + label + '</div>';
+          '">' + label + '</div>';
       }
     });
   }
