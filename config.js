@@ -21,8 +21,8 @@ var CONFIG = {
   social: {
     Facebook: "https://www.facebook.com/share/1CU5DZxG81/",
     TikTok: "https://www.tiktok.com/@echate",
-    X: "",
-    Instagram: "",
+    X: "https://x.com/EchateKenya",
+    Instagram: "https://www.instagram.com/_echate?xtok=MTA4amxybmY3bzJiNA==",
     YouTube: ""
   }
 };
